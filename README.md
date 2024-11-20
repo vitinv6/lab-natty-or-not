@@ -13,5 +13,5 @@ Desenvolvi prompts diretos e objetivos para a IA sobre o assunto a ser tratado, 
 ## 🚀 Resultados
 [eBook.pdf](https://github.com/user-attachments/files/17679534/eBook.pdf)
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 A capacidade da IA de gerar texto e imagem representa uma transformação significativa na forma como criamos e interagimos com conteúdo digital. Ao automatizar a geração de ideias e a produção visual, a IA não só economiza tempo e recursos, mas também possibilita novas formas de expressão, personalização e acessibilidade. Além de facilitar processos criativos, essa tecnologia levanta questões sobre originalidade e autenticidade, já que o conteúdo gerado é derivado de padrões aprendidos. A IA, portanto, torna-se uma poderosa ferramenta de apoio criativo, ao mesmo tempo em que nos desafia a pensar sobre o papel da criação humana na era digital.
